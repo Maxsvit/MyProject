@@ -4,6 +4,6 @@ public class Config {
     protected String dbHost = "localhost";
     protected String dbPort = "3306";
     protected String dbUser = "root";
-    protected String dbPassword = "Tima26max06.";
+    protected String dbPassword = "Password";
     protected String dbName = "login";
 }
