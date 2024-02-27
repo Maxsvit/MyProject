@@ -1,2 +1,1 @@
-This repository for my simple projects, which you can use.
-Enjoy :)
+This repository for my simple project with conecting to Database MySQL via(MySql WorkBench)
